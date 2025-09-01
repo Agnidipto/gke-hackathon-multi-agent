@@ -1,0 +1,7 @@
+NAME                 EXTERNAL-IP   
+balancereader        35.226.5.199  
+contacts             34.134.223.56 
+frontend             34.60.56.148  
+ledgerwriter         35.238.167.173
+transactionhistory   34.172.117.128
+userservice          34.173.220.58 
